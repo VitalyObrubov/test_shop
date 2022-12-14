@@ -7,5 +7,5 @@
 Пример фильтра по статусу 
 http://localhost:8001/api/products/?filter_status=В наличии
 
-Пример поискм по названию и артикулу
+Пример поиска по названию и артикулу
 http://localhost:8001/api/products/?search=ggh
